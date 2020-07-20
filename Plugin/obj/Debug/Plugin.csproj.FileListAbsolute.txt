@@ -1,0 +1,13 @@
+D:\Skripsi\Program\Plugin\Plugin\bin\Debug\Plugin.dll
+D:\Skripsi\Program\Plugin\Plugin\bin\Debug\Plugin.pdb
+D:\Skripsi\Program\Plugin\Plugin\bin\Debug\Plugin.dll.manifest
+D:\Skripsi\Program\Plugin\Plugin\bin\Debug\Plugin.vsto
+D:\Skripsi\Program\Plugin\Plugin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Skripsi\Program\Plugin\Plugin\obj\Debug\Plugin.csprojAssemblyReference.cache
+D:\Skripsi\Program\Plugin\Plugin\obj\Debug\Plugin.Properties.Resources.resources
+D:\Skripsi\Program\Plugin\Plugin\obj\Debug\Plugin.csproj.GenerateResource.cache
+D:\Skripsi\Program\Plugin\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+D:\Skripsi\Program\Plugin\Plugin\obj\Debug\Plugin.csproj.CopyComplete
+D:\Skripsi\Program\Plugin\Plugin\obj\Debug\Plugin.dll
+D:\Skripsi\Program\Plugin\Plugin\obj\Debug\Plugin.pdb
+D:\Skripsi\Program\Plugin\Plugin\obj\Debug\Plugin.Ribbon1.resources
